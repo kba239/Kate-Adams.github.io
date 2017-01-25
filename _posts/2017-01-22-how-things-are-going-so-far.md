@@ -8,10 +8,13 @@ feature-img: "img/sample_feature_img.png"
 
 
 I’ve made a few projects:
+
+
 * A music app
 * A discussion app
 * A chat app
 * An address book app
+
 
 I am also currently working on an app that lets users create and share wikis. I’ll go into more detail about each of these projects when I do case studies on them, so look for those soon.
 
