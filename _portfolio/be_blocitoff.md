@@ -6,8 +6,12 @@ thumbnail-path: "https://github.com/kba239/kba239.github.io/img/blocitoff_exampl
 short-description: Create your to-do list on Blocitoff!
 
 ---
+
 {:.center}
 ![](https://github.com/kba239/kba239.github.io/img/blocitoff_example.png)
+
+
+
 
 # Blocitoff
 Have you ever found it hard to keep your to-do list up-to-date? Does your list often seem full of tasks that are no longer relevant? [Blocitoff](https://github.com/kba239/bEBlocitoff) automatically moves tasks out of your active task list after 7 days, so that it is easier to keep your list current.
