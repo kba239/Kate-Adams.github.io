@@ -1,13 +1,13 @@
 ---
 layout: post
 title: FE Blocitoff
-feature-img: "img/fe_blocitoff/CurrentTasks.png"
-thumbnail-path: "https://github.com/kba239/kba239.github.io/img/fe_blocitoff/CurrentTasks.png"
+feature-img: "img/fe_blocitoff/CurrentTasks.jpg"
+thumbnail-path: "https://github.com/kba239/kba239.github.io/img/fe_blocitoff/CurrentTasks.jpg"
 short-description: Create your to-do list on Blocitoff!
 
 ---
 {:.center}
-![](https://github.com/kba239/kba239.github.io/img/fe_blocitoff/CurrentTasks.png)
+![](https://github.com/kba239/kba239.github.io/img/fe_blocitoff/CurrentTasks.jpg)
 
 # Blocitoff
 Have you ever found it hard to keep your to-do list up-to-date? Does your list often seem full of tasks that are no longer relevant? [Blocitoff](https://github.com/kba239/blocitoff) automatically moves tasks out of your active task list after 7 days, so that it is easier to keep your list current.
