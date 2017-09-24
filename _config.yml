@@ -23,11 +23,11 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "https://www.facebook.com"
   flickr:
-  github: "kba239/portfolio-iro"
+  github: "https://github.com/kba239"
   google_plus:
-  instagram:
+  instagram: "https://www.instagram.com/kba239/"
   linkedin:  "https://www.linkedin.com/in/kate-adams-872262127"
   pinterest:
   reddit:
