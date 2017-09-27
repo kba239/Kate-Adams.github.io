@@ -2,11 +2,9 @@
 layout: post
 title: Blocipedia
 feature-img: "img/sample_feature_img_2.png"
-thumbnail-path: "https://github.com/kba239/kba239.github.io/img/blocipedia_icon.png"
 short-description: Create your wikis on Blocipedia!
 
 ---
-
 # Blocipedia
 Do you want to create and collaborate on wikis? [Blocipedia](https://github.com/kba239/blocipedia) is a Ruby on Rails application that allows users to create accounts, write and edit wikis, and collaborate on wikis with other users.
 
