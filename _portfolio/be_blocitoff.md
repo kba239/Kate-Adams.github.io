@@ -1,17 +1,19 @@
 ---
 layout: post
 title: BE Blocitoff
-feature-img: "img/blocitoff_example.png"
-thumbnail-path: "https://github.com/kba239/kba239.github.io/img/blocitoff_example.png"
+feature-img: "img/be_blocitoff_icon.png"
+thumbnail-path: "https://github.com/kba239/kba239.github.io/img/be_blocitoff_icon.png"
 short-description: Create your to-do list on Blocitoff!
 
 ---
 {:.center}
-![](https://github.com/kba239/kba239.github.io/img/blocitoff_example.png)
+![](https://github.com/kba239/kba239.github.io/img/sample_feature_img_3.png)
 
 # Blocitoff
 Have you ever found it hard to keep your to-do list up-to-date? Does your list often seem full of tasks that are no longer relevant? [Blocitoff](https://github.com/kba239/bEBlocitoff) automatically moves tasks out of your active task list after 7 days so that it is easier to keep your list current.
 
+{:.center}
+![](https://github.com/kba239/kba239.github.io/img/blocitoff_example.png)
 
 Blocitoff is a Ruby on Rails application I created as part of my Bloc software development program. Users can create free accounts, sign in, and create tasks for their to-do lists. I used Devise for user accounts, Bootstrap for style, and Faker for seeding data. I had previously created a JavaScript and Angular version of Blocitoff, so it was interesting to approach the same idea with Ruby on Rails.
 
