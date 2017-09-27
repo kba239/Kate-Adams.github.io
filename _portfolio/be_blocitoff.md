@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BE Blocitoff
-thumbnail-path: "https://github.com/kba239/kba239.github.io/img/be_blocitoff_icon.png"
+feature-img: "img/sample_feature_img.png"
 short-description: Create your to-do list on Blocitoff!
 
 ---

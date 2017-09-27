@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blocipedia
-thumbnail-path: "https://github.com/kba239/kba239.github.io/img/blocipedia_icon.png"
+feature-img: "img/sample_feature_img_2.png"
 short-description: Create your wikis on Blocipedia!
 
 ---
